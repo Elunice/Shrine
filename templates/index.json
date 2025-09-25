@@ -123,7 +123,6 @@
         "video_slide_FWPx8p": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/74fab545736e4761a7bca224c8bfe06d.HD-1080p-2.5Mbps-52411746.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -141,7 +140,6 @@
         "video_slide_8gwp7L": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/b7709a98a41e4ff4bfd9d804c517e7d4.HD-1080p-2.5Mbps-52411739.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -159,7 +157,6 @@
         "video_slide_ckMBKY": {
           "type": "video_slide",
           "settings": {
-            "video": "shopify://files/videos/7f8ee65e70544bb7bba74b87b5c506be.HD-1080p-2.5Mbps-52411741.mp4",
             "loop": true,
             "muted_autoplay": true,
             "display_play_btn": true,
@@ -226,7 +223,6 @@
           "type": "instafeed",
           "settings": {
             "place": "",
-            "image": "shopify://shop_images/Screenshot_2025-07-27_at_00.38.12.png",
             "time": "Aug 11th, 2024",
             "url": ""
           }
@@ -235,7 +231,6 @@
           "type": "instafeed",
           "settings": {
             "place": "",
-            "image": "shopify://shop_images/10854258.jpg",
             "time": "Feb 26th, 2024",
             "url": ""
           }
